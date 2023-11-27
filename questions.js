@@ -43,6 +43,17 @@ let questions = [
       "Computer Style Sheet",
       "Cascading Style Sheet"
     ]
+  },
+  {
+    numb: 5,
+    question: "How many bits are there in a byte?",
+    answer: "8",
+    options: [
+      "128",
+      "8",
+      "16",
+      "32"
+    ]
   }
     
 ];
